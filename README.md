@@ -246,7 +246,9 @@ print ("Welcome", name)
 print ("age =", age)
 print ("marks =", marks)
 
+# Chapter 2: Strings and conditional statements
 
+- String is data type that stores
 
 
 
